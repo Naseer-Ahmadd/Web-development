@@ -1,0 +1,32 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+ #header{
+    position: -webkit-sticky;
+position: sticky;
+top: 0px;   
+z-index: 1;
+}
+
+.nvv{
+    /* border: 2px solid red; */
+    width: 210px;
+    display: inline-block;
+    /* position: absolute; */
+}
+
+.content{
+    width: 84.4%;
+    height: 900px;
+    border: 2px solid gray;
+    display: inline-block;
+    float: right;
+
+
+}
+
+.intro{
+    height: 400px;
+}
+

@@ -1,0 +1,13 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+  .nn{
+      /* padding-left: 100px; */
+  }
+  .logo img{
+      width: 90px;
+      height: 60px;
+      padding-left: 20px;
+      margin-right: 100px;
+  }
